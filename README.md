@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**CaetanoVeloso/CaetanoVeloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-1/839935483436990464.png">
+</p><br/><br/><br/>
+<div style="border: 1px solid black" align"center">
+    <table border="0">
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoVeloso&theme=dark&show_icons=true"></td>        
+            <td><img src="https://github-readme-stats.vercel.app/api/?username=CaetanoVeloso&theme=dark&show_icons=true"></td>
+        </tr>
+    </table>
+</div>
